@@ -10,7 +10,7 @@ class CatsController < ApplicationController
 
   # GET /cats/1
   def show
-    render json: @cat
+    # render json: @cat
   end
 
   # POST /cats
